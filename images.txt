@@ -5,3 +5,8 @@ minio/mc:latest
 neo4j:5-community
 minio/minio:latest
 neo4j:5-community
+node:18-alpine
+nginx:alpine
+python:3.11-slim
+maven:3.9-eclipse-temurin-17
+eclipse-temurin:17-jre
