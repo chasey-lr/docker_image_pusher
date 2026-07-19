@@ -1,1 +1,7 @@
 python:alpine3.19
+mysql:8.0
+redis:7-alpine
+minio/mc:latest
+neo4j:5-community
+minio/minio:latest
+neo4j:5-community
